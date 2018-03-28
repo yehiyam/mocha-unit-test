@@ -3,8 +3,7 @@
   "mocha.env": {
     "HELLO_WORLD": "Hello, World!"
   },
-  "mocha.enabled": true,
-  "mocha.files.glob": "test/**/*.js",
+  "mocha.files.glob": "server/**/*.spec.js",
   "mocha.sideBarOptions": {
     "lens": true,
     "decoration": true,
